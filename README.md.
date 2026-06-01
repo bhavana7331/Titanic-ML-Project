@@ -1,0 +1,38 @@
+# Titanic Survival Prediction
+
+## Dataset
+
+Titanic Dataset
+
+## Preprocessing
+
+* Missing value handling
+* Duplicate removal
+* Encoding categorical variables
+* Feature scaling
+
+## Algorithms Used
+
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+
+## Results
+
+| Model               | Accuracy |
+| ------------------- | -------- |
+| Logistic Regression | 81.01%   |
+| Decision Tree       | 77.65%   |
+| Random Forest       | 81.56%   |
+
+## Best Model
+
+Random Forest
+
+## Evaluation
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
